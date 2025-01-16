@@ -1,4 +1,6 @@
+<p align="center">
 ## Hi 👋, I'm Ankita
+</p>
 
 A passionate Data and Business Intelligence Analyst unraveling data mysteries!📊
 
