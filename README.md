@@ -1,3 +1,5 @@
+## Hi 👋, I'm Ankita
+
 A passionate Data and Business Intelligence Analyst unraveling data mysteries!📊
 
 🔭 I’m currently working on Data Analytics, Business Intelligence and Machine Learning projects, while pursuing certifications to stay at the forefront of innovation.
