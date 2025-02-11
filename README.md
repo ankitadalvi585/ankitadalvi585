@@ -17,9 +17,9 @@
 
 💬 Ask me about Data Analytics strategies, predictive modeling, or creating intuitive dashboards and reports.
 
-📫 How to reach me: ankitadalvi0497@gmail.com
+✉️ How to reach me: ankitadalvi0497@gmail.com
 
-Let’s connect and collaborate to solve exciting problems with data: [LinkedIn](https://www.linkedin.com/in/ankita-ashok-dalvi/)
+🤝 Let’s connect and collaborate to solve exciting problems with data: [LinkedIn](https://www.linkedin.com/in/ankita-ashok-dalvi/)
 
 
 
