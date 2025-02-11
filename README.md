@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Ankita
 
-🔍 Experienced Data Analyst | 4+ Years of Driving Data-Driven Insights
+🔍 Experienced Data Analyst | 4+ Years of transforming Data into Impactful Insights
 
 🎓 Education: Master's in Business Analytics from The University of Texas at Dallas (GPA: 3.945/4.00) 
 
